@@ -1,2 +1,14 @@
 github.com/3scale/3scale-porta-go-client v0.5.1-0.20220330145543-280d56c86e54 h1:eODLMCZ209u50Tl3KQD9VQbD2nTZFm+bsv++j//YFN0=
 github.com/3scale/3scale-porta-go-client v0.5.1-0.20220330145543-280d56c86e54/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
+github.com/3scale/3scale-porta-go-client v0.7.1-0.20230221182253-c7647ecfe527 h1:DSvOookEr2/6d42yxjPNNWi85C3Q5yGFk4Tf7ZzS5Jk=
+github.com/3scale/3scale-porta-go-client v0.7.1-0.20230221182253-c7647ecfe527/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
+github.com/3scale/3scale-porta-go-client v0.7.1-0.20230228142858-4d07635cf54a h1:hshWr0sjb91pYLdVTj8H+/qyeW4EjwNp2wor7FnqzVw=
+github.com/3scale/3scale-porta-go-client v0.7.1-0.20230228142858-4d07635cf54a/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
+github.com/3scale/3scale-porta-go-client v0.7.1-0.20230307091924-20a2ca08e30c h1:AkZ7SNETUXNkOBLcROwgT7veyGimSkSQ9jUzSHVYoYU=
+github.com/3scale/3scale-porta-go-client v0.7.1-0.20230307091924-20a2ca08e30c/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
+github.com/3scale/3scale-porta-go-client v0.8.1-0.20230327162937-79c214dece2b h1:9OEHSzHpLa/Rb6o41OSJYEOFNAKyw2A+77rr+Abt2lk=
+github.com/3scale/3scale-porta-go-client v0.8.1-0.20230327162937-79c214dece2b/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
+github.com/3scale/3scale-porta-go-client v0.8.1-0.20230328171335-705a0c993352 h1:Hnb++AVjBb+xmo8a40I4jarBP7l7UIcAoiRXYB8f714=
+github.com/3scale/3scale-porta-go-client v0.8.1-0.20230328171335-705a0c993352/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
+github.com/3scale/3scale-porta-go-client v0.8.1-0.20230329155326-566bf9b5faeb h1:LVnvqS2fHQT2n9JKtCbsrXG7lPHsXykcgMwVHxTeNkc=
+github.com/3scale/3scale-porta-go-client v0.8.1-0.20230329155326-566bf9b5faeb/go.mod h1:nUbuVh0fU2rs/lJfowmS5YhEk2tQoybL4htDIdxxMaM=
